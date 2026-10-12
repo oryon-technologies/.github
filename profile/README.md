@@ -19,6 +19,7 @@ Nous partageons ici des outils concrets issus de ce travail :
 | --- | --- |
 | [seo-studio-wordpress](https://github.com/oryon-technologies/seo-studio-wordpress) | Le connecteur WordPress de SEO Studio : métadonnées SEO, langues natives configurées, installation et limites de compatibilité. Licence GPL-2.0-or-later. |
 | [web-project-handover](https://github.com/oryon-technologies/web-project-handover) | Une checklist de livraison web adaptable, en français et en anglais : sources, documentation, accès, sauvegardes et réception. Licence CC BY 4.0. |
+| [seo-studio-webhooks](https://github.com/oryon-technologies/seo-studio-webhooks) | Documentation FR/EN et exemples Make / n8n pour recevoir les brouillons relus de SEO Studio, avec vérification et accusé de réception. Licence MIT. |
 
 [Découvrir SEO Studio](https://oryon-tech.com/seo-studio) · [Voir la démonstration WordPress documentée](https://oryon-tech.com/conseils/demonstration-seo-studio-publication-wordpress) · [Oryon Technologies](https://oryon-tech.com/)
 
@@ -32,6 +33,7 @@ We share practical tools from that work:
 | --- | --- |
 | [seo-studio-wordpress](https://github.com/oryon-technologies/seo-studio-wordpress) | The SEO Studio WordPress connector: SEO metadata, configured native languages, installation and compatibility boundaries. GPL-2.0-or-later. |
 | [web-project-handover](https://github.com/oryon-technologies/web-project-handover) | An adaptable web handover checklist in English and French: source code, documentation, access, backups and acceptance. CC BY 4.0. |
+| [seo-studio-webhooks](https://github.com/oryon-technologies/seo-studio-webhooks) | English / French documentation and Make / n8n examples for receiving reviewed SEO Studio drafts, with verification and acknowledgements. MIT. |
 
 [Explore SEO Studio](https://oryon-tech.com/en/seo-studio) · [Read the documented WordPress demo](https://oryon-tech.com/en/guides/seo-studio-wordpress-demo) · [Oryon Technologies](https://oryon-tech.com/)
 
